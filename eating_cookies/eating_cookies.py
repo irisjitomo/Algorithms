@@ -8,6 +8,9 @@ import sys
 def eating_cookies(n, cache=None):
   pass
 
+
+# eating_cookies(3) 
+
 if __name__ == "__main__":
   if len(sys.argv) > 1:
     num_cookies = int(sys.argv[1])
